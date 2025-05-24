@@ -49,6 +49,7 @@ Custom toast notification component using Radix UI + Tailwind CSS for React and 
 
 - 📍 Bengaluru, India  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- ｘ [X](https://x.com/KISHORE_SV_7/)
 - 📧 Email:kishorbunni7@gmail.com
 
 ---

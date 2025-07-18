@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kishore
 
 </div>
-<a href="https://www.twitter.com/KISHORE_SV_" target="__blank"><img src="https://img.shields.io/twitter/follow/kishore?style=social" alt="Twitter"></a>
+<a href="https://x.com/KISHORE_SV_7/" target="__blank"><img src="https://img.shields.io/twitter/follow/KISHORE_SV_7?style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/kishore-sv-3253b9365/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
 <br>

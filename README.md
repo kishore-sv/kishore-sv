@@ -6,10 +6,6 @@
 </a>
 <br>
 
-- I build web apps that stand out
-
-
-
 **MERN Stack Developer** | **React Native Developer**
 
 ⚡ Proficient in **Next.js**, **PostgreSQL**, **Node.js (Express.js)**, **Docker**, and **AWS**.  

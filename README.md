@@ -19,7 +19,7 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 - **Backend:** Node.js, Express.js
 - **Mobile:** React Native
 - **Database:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, AWS, Git, GitHub
+- **DevOps & Tools:** Docker, AWS, Git, GitHub,Linux (moderate) 
 
 ---
 

@@ -22,7 +22,7 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 
 ## Featured Projects
 
-### [ChatApplication](https://github.com/KishoreBunnny/ChatApplication)  
+### [ChatApplication](https://github.com/kishore-sv/ChatApplication)  
 A full-stack chat app built using Node.js, Express.js, and vanilla JavaScript (no WebSockets).  
 🔗 **Live Demo:** [chatapplication-jdq3.onrender.com](https://chatapplication-jdq3.onrender.com)
 
@@ -30,12 +30,15 @@ A full-stack chat app built using Node.js, Express.js, and vanilla JavaScript (n
 A lightweight and responsive notepad web app.  
 🔗 **Live Demo:** [pupad.onrender.com](https://pupad.onrender.com)
 
-### [Chat Application Mobile](https://github.com/KishoreBunnny/chat-application-mobile)  
+### [Chat Application Mobile](https://github.com/kishore-sv/chat-application-mobile)  
 A React Native chat app built with TypeScript and clean UI principles.
 
-### [Ready Toast](https://github.com/KishoreBunnny/ready-toast)  
+[![chat app](https://img.shields.io/badge/github-Chat_App-blue?logo=github)](https://github.com/kishore-sv/chat-application-mobile)
+
+### [Ready Toast](https://github.com/kishore-sv/ready-toast)  
 Custom toast notification component using Radix UI + Tailwind CSS for React and Next.js.  
 **NPM Package:** [`ready-toast`](https://www.npmjs.com/package/ready-toast)
+
 [![npm version](https://img.shields.io/npm/v/ready-toast.svg)](https://www.npmjs.com/package/ready-toast)
 
 ---

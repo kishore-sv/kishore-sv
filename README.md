@@ -8,18 +8,15 @@
 
 **MERN Stack Developer** | **React Native Developer**
 
-⚡ Proficient in **Next.js**, **PostgreSQL**, **Node.js (Express.js)**, **Docker**, and **AWS**.  
+Proficient in **Next.js**, **PostgreSQL**, **Node.js (Express.js)**, **Docker**, and **AWS**.  
 Passionate about crafting clean, user-friendly, and performant web & mobile experiences.
 
 ---
 
 ## Tech Stack
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, Radix UI
-- **Backend:** Node.js, Express.js
-- **Mobile:** React Native
-- **Database:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, AWS, Git, GitHub,Linux (moderate) 
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,nodejs,tailwind,nextjs,express,react,redis,postgres,mysql,sqlite,mongodb,docker,aws,git,npm,linux,sklearn,vercel)
+
 
 ---
 

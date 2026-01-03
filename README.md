@@ -6,7 +6,7 @@
 </a>
 <br>
 
-**MERN Stack Developer** | **React Native Developer**
+**Full Stack Developer** | **React Native Developer**
 
 Proficient in **Next.js**, **PostgreSQL**, **Node.js (Express.js)**, **Docker**, and **AWS**.  
 Passionate about crafting clean, user-friendly, and performant web & mobile experiences.

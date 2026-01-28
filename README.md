@@ -22,13 +22,28 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 
 ## Featured Projects
 
+### [Portfolio Builder](https://builder.kishore-sv.me)  
+Transform your resume into a professional portfolio in seconds.   
+**Live Demo:** [builder.kishore-sv.me](https://builder.kishore-sv.me)
+
+### [Heart disease predictor](https://heart-disease-predictor-phi.vercel.app)  
+A simple ML-powered REST API using FastAPI to predict heart disease based on patient data.   
+**Live Demo:** [heart-disease-predictor-phi.vercel.app](https://heart-disease-predictor-phi.vercel.app)
+
+### [S3 UI](https://s3-ui.kishore-sv.me)  
+Simple S3 File Manager - A lightweight web interface.  
+**Live Demo:** [s3-ui.kishore-sv.me](https://s3-ui.kishore-sv.me)
+
+### BookMyTickets
+BookMyTickets is a feature-rich movie booking platform that replicates the core functionality of BookMyShow. Users can browse movies, check show timings, select seats in real-time, and manage their bookings-all through an intuitive and responsive interface.
+
 ### [ChatApplication](https://github.com/kishore-sv/ChatApplication)  
 A full-stack chat app built using Node.js, Express.js, and vanilla JavaScript (no WebSockets).  
-🔗 **Live Demo:** [chatapplication-jdq3.onrender.com](https://chatapplication-jdq3.onrender.com)
+**Live Demo:** [chatapplication-jdq3.onrender.com](https://chatapplication-jdq3.onrender.com)
 
 ### [Pupad](https://github.com/KishoreBunnny/Pupad)  
 A lightweight and responsive notepad web app.  
-🔗 **Live Demo:** [pupad.onrender.com](https://pupad.onrender.com)
+**Live Demo:** [pupad.onrender.com](https://pupad.onrender.com)
 
 ### [Chat Application Mobile](https://github.com/kishore-sv/chat-application-mobile)  
 A React Native chat app built with TypeScript and clean UI principles.
@@ -45,9 +60,9 @@ Custom toast notification component using Radix UI + Tailwind CSS for React and 
 
 ## Let's Connect
 
-- 📍 Bengaluru, India  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- ｘ [X](https://x.com/kishore_sv_7/)
-- 📧 Email:kishorbunni7@gmail.com
+- Bengaluru, India  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [X](https://x.com/kishore_sv_7/)
+- Email:kishorevphs@gmail.com
 
 ---

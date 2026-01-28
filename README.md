@@ -26,15 +26,15 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 Transform your resume into a professional portfolio in seconds.   
 **Live Demo:** [builder.kishore-sv.me](https://builder.kishore-sv.me)
 
-### [Heart disease predictor](https://heart-disease-predictor-phi.vercel.app)  
+### [Heart disease predictor](https://github.com/kishore-sv/heart-disease-predictor)  
 A simple ML-powered REST API using FastAPI to predict heart disease based on patient data.   
 **Live Demo:** [heart-disease-predictor-phi.vercel.app](https://heart-disease-predictor-phi.vercel.app)
 
-### [S3 UI](https://s3-ui.kishore-sv.me)  
+### [S3 UI](https://github.com/kishore-sv/s3-ui)  
 Simple S3 File Manager - A lightweight web interface.  
 **Live Demo:** [s3-ui.kishore-sv.me](https://s3-ui.kishore-sv.me)
 
-### BookMyTickets
+### [BookMyTickets](https://github.com/kishore-sv/bookmytickets)
 BookMyTickets is a feature-rich movie booking platform that replicates the core functionality of BookMyShow. Users can browse movies, check show timings, select seats in real-time, and manage their bookings-all through an intuitive and responsive interface.
 
 ### [ChatApplication](https://github.com/kishore-sv/ChatApplication)  

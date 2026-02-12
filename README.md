@@ -24,6 +24,10 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 
 ## Featured Projects
 
+### [Cover Image Maker](https://image.kishore-sv.me)  
+CIM – AI Cover Image & Thumbnail Generator.   
+**Live Demo:** [image.kishore-sv.me](https://image.kishore-sv.me)
+
 ### [Portfolio Builder](https://builder.kishore-sv.me)  
 Transform your resume into a professional portfolio in seconds.   
 **Live Demo:** [builder.kishore-sv.me](https://builder.kishore-sv.me)

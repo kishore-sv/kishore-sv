@@ -25,7 +25,7 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 ## Featured Projects
 
 ### [PU Pad (new)](https://pupad.kishore-sv.me)  
-PU Pad - Save your notes online with a single code. Fully encrypted.
+PU Pad - Save your notes online with a single code. Fully encrypted.<br>
 **Live Demo:** [pupad.kishore-sv.me](https://pupad.kishore-sv.me)
 
 ### [Cover Image Maker](https://image.kishore-sv.me)  

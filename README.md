@@ -25,11 +25,11 @@ Passionate about crafting clean, user-friendly, and performant web & mobile expe
 ## Featured Projects
 
 ### [PU Pad (new)](https://pupad.kishore-sv.me)  
-PU Pad — Save your notes online with a single code. Fully encrypted.
+PU Pad - Save your notes online with a single code. Fully encrypted.
 **Live Demo:** [pupad.kishore-sv.me](https://pupad.kishore-sv.me)
 
 ### [Cover Image Maker](https://image.kishore-sv.me)  
-CIM – AI Cover Image & Thumbnail Generator.   
+CIM - AI Cover Image & Thumbnail Generator.   
 **Live Demo:** [image.kishore-sv.me](https://image.kishore-sv.me)
 
 ### [Portfolio Builder](https://builder.kishore-sv.me)  

@@ -20,6 +20,3 @@ scalable software and applying modern technologies to real-world problems.
 ## Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=java,ts,js,python,nodejs,tailwind,nextjs,express,fastapi,react,redis,postgres,mysql,sqlite,mongodb,docker,aws,git,npm,linux,sklearn,verce)
-
-
----
